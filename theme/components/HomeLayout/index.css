@@ -1,0 +1,10 @@
+.home-container {
+  width: 100%;
+  height: calc(100vh - var(--rp-nav-height, 72px));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--rp-c-bg);
+  padding: 20px;
+  box-sizing: border-box;
+}

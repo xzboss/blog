@@ -1,0 +1,5 @@
+[
+  { "type": "file", "name": "JavaScript 散碎知识点", "label": "散碎知识点" },
+  { "type": "file", "name": "JavaScript 手写实现", "label": "手写实现" },
+  { "type": "dir", "name": "JavaScript高级程序设计v4", "label": "JavaScript高级程序设计v4", "collapsible": true, "collapsed": false }
+]

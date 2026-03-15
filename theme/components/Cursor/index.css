@@ -1,0 +1,19 @@
+.custom-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 99999;
+  background: rgba(192, 202, 245, 0.8);
+  mix-blend-mode: difference;
+  transform: translate(-50%, -50%);
+  will-change: transform, width, height;
+}
+
+html {
+  cursor: none;
+}
+
+html * {
+  cursor: none !important;
+}

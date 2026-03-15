@@ -1,0 +1,9 @@
+[
+  { "type": "file", "name": "第1~8章 基础" },
+  { "type": "file", "name": "第9章 代理与反射" },
+  { "type": "file", "name": "第10章 函数" },
+  { "type": "file", "name": "第11章 期约与异步函数" },
+  { "type": "file", "name": "第12章 BOM" },
+  { "type": "file", "name": "第13章 客户端检测" },
+  { "type": "file", "name": "第14~16章 DOM" }
+]
