@@ -5,6 +5,7 @@ export default defineConfig({
   root: path.join(__dirname, "docs"),
   title: "xzboss",
   description: "",
+  outDir: "dist",
   globalUIComponents: [
     path.join(__dirname, "theme/components/Cursor/index.tsx"),
   ],
