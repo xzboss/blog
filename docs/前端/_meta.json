@@ -2,6 +2,5 @@
   { "type": "dir", "name": "语言", "label": "语言" },
   { "type": "dir", "name": "框架", "label": "框架" },
   { "type": "dir", "name": "浏览器", "label": "浏览器" },
-  { "type": "dir", "name": "设计模式", "label": "设计模式" },
-  { "type": "dir", "name": "方案", "label": "方案" }
+  { "type": "dir", "name": "设计模式", "label": "设计模式" }
 ]

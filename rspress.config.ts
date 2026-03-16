@@ -6,8 +6,10 @@ export default defineConfig({
   title: "xzboss",
   description: "",
   outDir: "dist",
+  head: [["meta", { name: "referrer", content: "no-referrer" }]],
   globalUIComponents: [
     path.join(__dirname, "theme/components/Cursor/index.tsx"),
+    path.join(__dirname, "theme/components/ImgReferrerFix/index.tsx"),
   ],
   themeConfig: {
     lastUpdated: true,

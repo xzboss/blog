@@ -1,3 +1,4 @@
 [
-  { "type": "file", "name": "dom-to-vector-pdf", "label": "如何将DOM转换为矢量PDF" }
+  { "type": "file", "name": "dom-to-vector-pdf", "label": "如何将DOM转换为矢量PDF" },
+  { "type": "file", "name": "MicroApp实践 - 重构项目", "label": "MicroApp实践 - 重构项目" }
 ]
