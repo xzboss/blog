@@ -479,6 +479,7 @@ const getScaleFactor = (symbol) => {
 2.  字体整体向下偏移
 3.  布局问题
 4.  pdf宽高
+5.  资源加载
 
 #### 完整代码
 
