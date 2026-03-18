@@ -1,3 +1,8 @@
+---
+title: dom-to-vector-pdf
+createTime: 2026-03-01
+---
+
 > @xzboss目前大部分能搜到的解决办法都是dom转canvas转图片转pdf这样的方式；或者一些简单样式转换如svg转pdf。
 
 ### 方式一：浏览器原生打印

@@ -1,4 +1,4 @@
-import { useFrontmatter, useI18n, usePage, useSite } from '@rspress/core/runtime';
+import { useFrontmatter, usePage, useSite } from '@rspress/core/runtime';
 import './index.css';
 
 function formatDate(raw: string | Date): string {
@@ -22,7 +22,6 @@ export function LastUpdated() {
     | string
     | undefined;
 
-  const t = useI18n();
 
   if (!showLastUpdated && !createTime) {
     return null;
@@ -37,7 +36,7 @@ export function LastUpdated() {
       )}
       {showLastUpdated && lastUpdatedTime && (
         <p>
-          {t('lastUpdatedText')}: <span>{lastUpdatedTime}</span>
+          最后更新: <span>{lastUpdatedTime}</span>
         </p>
       )}
     </div>

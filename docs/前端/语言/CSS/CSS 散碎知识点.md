@@ -1,6 +1,6 @@
 ---
 title: CSS 散碎知识点
-createTime: 2026-01-06
+createTime: 2023-12-01
 ---
 #### p 标签默认会占用100%父元素，但是父元素给了display:flex; p标签便不会在自动占100%宽度了
 #### mix-blend-mode:multiply; 让半透明图片与背景色混合：比如背景色和半透明图片颜色相同，那他们混合后就加深了

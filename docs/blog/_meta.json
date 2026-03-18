@@ -1,4 +1,6 @@
 [
   { "type": "file", "name": "dom-to-vector-pdf", "label": "如何将DOM转换为矢量PDF" },
-  { "type": "file", "name": "MicroApp实践 - 重构项目", "label": "MicroApp实践 - 重构项目" }
+  { "type": "file", "name": "MicroApp实践 - 重构项目", "label": "MicroApp实践 - 重构项目" },
+  { "type": "file", "name": "一张图搞懂OAuth背后做了什么事", "label": "一张图搞懂OAuth背后做了什么事" },
+  { "type": "file", "name": "一口气学完八大排序-四大查找-树", "label": "一口气学完八大排序-四大查找-树" }
 ]
