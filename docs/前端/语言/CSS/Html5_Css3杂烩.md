@@ -1,5 +1,5 @@
 ---
-title: CSS 散碎知识点
+title: Html5_Css3杂烩
 createTime: 2023-08-06
 ---
 
@@ -314,7 +314,7 @@ input::placeholder {
 
 
 
-## 媒体查询 [@media ](/media ) mediatype and|not|only (media feature) 
+## 媒体查询 `[@media ](/media ) mediatype and|not|only (media feature) `
 
 
 + `mediatype`媒体类型 
